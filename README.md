@@ -45,8 +45,6 @@ Communication, Leadership, Teamwork, Public Speaking, Adaptability, Problem-Solv
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Welldone39/Welldone39/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 
 
 
